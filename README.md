@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# tifkremlinen <a href='https:/vroom.r-lib.org'><img src='man/figures/hex-kremlin_en.png' align="right" height="320" /></a>
+# tifkremlinen <a href='https://github.com/giocomai/tifkremlinen'><img src='man/figures/hex-kremlin_en.png' align="right" height="320" /></a>
 
 <!-- badges: start -->
 
